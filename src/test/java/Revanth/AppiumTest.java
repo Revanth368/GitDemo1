@@ -20,6 +20,9 @@ public class AppiumTest {
 		 extent=new ExtentReports();
 		extent.attachReporter(reporter);
 		extent.setSystemInfo("Tester", "Revanth");
+		System.out.println("qwerty1");
+		System.out.println("qwerty2");
+		System.out.println("qwerty");
 		System.out.println("qwerty");
 		
 	}
